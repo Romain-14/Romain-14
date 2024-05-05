@@ -43,7 +43,7 @@ Programming is fun, a passion... not just work
 
 ###
 
-<h3 align="center">Learning</h3>
+<h2 align="center">Learning</h2>
 
 ###
 
@@ -59,7 +59,7 @@ Programming is fun, a passion... not just work
 
 ###
 
-<h3 align="center">Find me on</h3>
+<h2 align="center">Find me on</h2>
 
 ###
 
