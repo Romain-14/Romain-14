@@ -2,10 +2,10 @@
 
 Programming is fun, a passion ... not a work 
 
-- 🔭 I’m currently working on boosting my dev skill on Docker and Typescript
+- 🔭 I’m currently working on self project in SERN stack and a video game in c#
 - 🌱 I’m learning advanced Docker, Typescript, security, testing for my dev skills
 - 🌱 I’m also currently learning C# and 3D to make my video game on Unity engine
-- 💬 Ask me about courses (in french 😊 )
+- 💬 Ask me about courses on JavaScript, Node.js, React.js, SQL, HTML/CSS ( in french 😊 )
 - 📫 How to reach me: here for the moment, elsewhere if you find me ...
 
 
