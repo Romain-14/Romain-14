@@ -1,4 +1,7 @@
-### Hi 👋
+### 
+
+<h2 align="center">Hi 👋! My name is Romain and I'm a web developper, from France (44)</h2>
+
 
 Programming is fun, a passion... not just work
 
@@ -7,8 +10,6 @@ Programming is fun, a passion... not just work
 - 🌱 I’m also currently learning C# and 3D modeling to create my video game using the Unity engine
 - 💬 Feel free to ask me about courses on JavaScript, Node.js, React.js, SQL, and HTML/CSS (in French 😊)
 - 📫 How to reach me: You can find me here for now, or elsewhere if you can find me...
-
-<h2 align="center">Hi 👋! My name is Romain and I'm a web developper, from France (44)</h2>
 
 ###
 
