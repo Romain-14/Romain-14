@@ -19,7 +19,7 @@ Programming is fun, a passion... not just work
 
 ###
 
-<p align="center">Langages</p>
+<h2 align="center">Langages & tools</h2>
 
 ###
 
