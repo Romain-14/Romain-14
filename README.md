@@ -43,7 +43,7 @@ Programming is fun, a passion... not just work
 
 ###
 
-<h4 align="center">Learning</h4>
+<h3 align="center">Learning</h3>
 
 ###
 
@@ -56,6 +56,10 @@ Programming is fun, a passion... not just work
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
+
+###
+
+<h3 align="center">Find me on</h3>
 
 ###
 
