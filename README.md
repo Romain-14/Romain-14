@@ -65,9 +65,3 @@ Programming is fun, a passion... not just work
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Romain-14/Romain-14/output/snake.svg" alt="Snake animation" />
-
-###
