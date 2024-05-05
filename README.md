@@ -1,12 +1,12 @@
 ### Hi 👋
 
-Programming is fun, a passion ... not a work 
+Programming is fun, a passion... not just work
 
-- 🔭 I’m currently working on self project in SERN stack and a video game in c#
-- 🌱 I’m learning advanced Docker, Typescript, security, testing for my dev skills
-- 🌱 I’m also currently learning C# and 3D to make my video game on Unity engine
-- 💬 Ask me about courses on JavaScript, Node.js, React.js, SQL, HTML/CSS ( in french 😊 )
-- 📫 How to reach me: here for the moment, elsewhere if you find me ...
+- 🔭 I’m currently working on a personal project in SERN stack and a video game in C#
+- 🌱 I’m learning advanced Docker, Typescript, security, and testing to enhance my dev skill
+- 🌱 I’m also currently learning C# and 3D modeling to create my video game using the Unity engine
+- 💬 Feel free to ask me about courses on JavaScript, Node.js, React.js, SQL, and HTML/CSS (in French 😊)
+- 📫 How to reach me: You can find me here for now, or elsewhere if you can find me...
 
 
 
