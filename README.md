@@ -5,11 +5,11 @@
 
 Programming is fun, a passion... not just work
 
-- 🔭 I’m currently working on a personal project in SERN stack and a video game in C#
-- 🌱 I’m learning advanced Docker, Typescript, security, and testing to enhance my dev skill
-- 🌱 I’m also currently learning C# and 3D modeling to create my video game using the Unity engine
+- 🔭 I’m currently working on personal project in SERN stack and as a web developer teacher
+- 🌱 I’m learning Docker, Typescript, security, and testing to enhance my dev skill
+- 🌱 I’m also currently learning C++, C# and 3D modeling to create my video game
 - 💬 Feel free to ask me about courses on JavaScript, Node.js, React.js, SQL, and HTML/CSS (in French 😊)
-- 📫 How to reach me: You can find me here for now, or elsewhere if you can find me...
+- 📫 How to reach me: You can find me here !
 
 ###
 
