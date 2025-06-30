@@ -13,7 +13,7 @@ Programming isn't just work — it's a passion, a way of life.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Romain-14&locale=en&hide_title=true&layout=donut&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="225" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Romain-14&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="225" alt="languages graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romain-14&layout=compact&langs_count=8"/> -->
 </div>
 
