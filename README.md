@@ -1,14 +1,13 @@
 ### 
 
-<h2 align="center">Hi 👋! My name is Romain and I'm a web developper, from France (44)</h2>
+<h2 align="center">Hi 👋! I'm Romain, a web developer from France 🇫🇷 (44)</h2>
 
+Programming isn't just work — it's a passion, a way of life.
 
-Programming is fun, a passion... not just work
-
-- 🔭 I’m currently working on personal project in SERN stack and as a web developer teacher
-- 🌱 I’m learning Docker, Typescript, security, and testing to enhance my dev skill
-- 🌱 I’m also currently learning C++, blueprint and 3D modeling to create my video game in Unreal Engine
-- 💬 Feel free to ask me about courses on JavaScript, Node.js, React.js, SQL, and HTML/CSS (in French 😊)
+- 🔭 I'm currently working on personal projects using the SERN stack and teaching web development.
+- 🌱 I'm learning Docker, TypeScript, security best practices, CI/CD, and testing to sharpen my skills.
+- 🎮 I'm also diving into C++, Blueprints, and 3D modeling to build my own video game in Unreal Engine.
+- 💬 Feel free to reach out if you want to chat about JavaScript, Node.js, React, SQL, or HTML/CSS — especially in French 😊
 
 ###
 
