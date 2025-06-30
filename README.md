@@ -9,7 +9,6 @@ Programming is fun, a passion... not just work
 - 🌱 I’m learning Docker, Typescript, security, and testing to enhance my dev skill
 - 🌱 I’m also currently learning C++, blueprint and 3D modeling to create my video game in Unreal Engine
 - 💬 Feel free to ask me about courses on JavaScript, Node.js, React.js, SQL, and HTML/CSS (in French 😊)
-- 📫 How to reach me: You can find me here !
 
 ###
 
