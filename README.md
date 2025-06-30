@@ -6,6 +6,7 @@ Programming isn't just work — it's a passion, a way of life.
 
 - 🔭 I'm currently working on personal projects using the SERN stack and teaching web development.
 - 🌱 I'm learning Docker, TypeScript, security best practices, CI/CD, and testing to sharpen my skills.
+- 💻 I recently set up and deployed my own VPS to host projects and experiment with CI/CD pipelines.
 - 🎮 I'm also diving into C++, Blueprints, and 3D modeling to build my own video game in Unreal Engine.
 - 💬 Feel free to reach out if you want to chat about JavaScript, Node.js, React, SQL, or HTML/CSS — especially in French 😊
 
